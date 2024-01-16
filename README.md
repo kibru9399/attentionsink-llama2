@@ -24,11 +24,7 @@ This repository provides a compatible implementation of the streaming LLM paper 
 
 ## Additional Information
 
-- **Paper:** For details on the streaming LLM approach, refer to the original paper ([insert citation or lin](https://arxiv.org/pdf/2309.17453.pdf).
+- **Paper:** For details on the streaming LLM approach, refer to the original paper ([Paper](https://arxiv.org/pdf/2309.17453.pdf).
 
-## Contributing
-
-Contributions are warmly welcomed! Please refer to the CONTRIBUTING.md file for guidelines.
-
-## License
+ 
 
